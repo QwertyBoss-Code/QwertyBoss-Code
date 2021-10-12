@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QwertyBoss-Code
 - 👀 I’m interested in web development!
-- 🌱 I’m currently learning CSS.
+- 🌱 I’m currently learning JS.
 
 <!---
 QwertyBoss-Code/QwertyBoss-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
