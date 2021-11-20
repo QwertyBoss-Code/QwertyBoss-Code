@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @QwertyBoss-Code
-- 👀 I’m interested in web development!
-- 🌱 I’m currently learning Java(for fun!)
+-  I’m interested in web development!
+-  I’m currently learning Java(for fun!)
+-  Apart from coding, I also use Blender for CGI.
 
 <!---
 QwertyBoss-Code/QwertyBoss-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
