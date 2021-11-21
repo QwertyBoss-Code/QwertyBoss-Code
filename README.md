@@ -1,4 +1,4 @@
--  Hi, I’m @QwertyBoss-Code
+    **Hi there! I’m @QwertyBoss-Code**
 -  I’m interested in web development!
 -  I’m currently learning Java(for fun!)
 -  Apart from coding, I also use Blender for CGI.
